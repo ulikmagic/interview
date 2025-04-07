@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "cbd24e5095bf4fa3",
+    "type": "split",
+    "children": [
+      {
+        "id": "1edc94ed6a112edc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0eb5b39d6e680e36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Черновик.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Черновик"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bea73ea6552b973c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce93b28bf487af0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2eeb86c8d4ea095",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "4a5fdb22a60d4caa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "846fe62732663c70",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b709bbb018a90805",
+    "type": "split",
+    "children": [
+      {
+        "id": "b136ff0ad0912156",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "446106f5bd468b9d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Черновик.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Черновик"
+            }
+          },
+          {
+            "id": "1c8c99199b67e2c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "шаг 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из шаг 1"
+            }
+          },
+          {
+            "id": "65cc31edb05472d0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "cd042ab670209c0d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "шаг 1.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура шаг 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "0eb5b39d6e680e36",
+  "lastOpenFiles": [
+    "Javascript/Темы.md",
+    "Черновик.md",
+    "Javascript/Прототипы.md",
+    "HTML - собеседование.md",
+    "CSS - собеседование.md",
+    "Javascript/Поднятие (Hosting).md",
+    "Javascript/Переменные.md",
+    "Javascript/Декларативный и императивный подход.md",
+    "Javascript/Функциональное программирование/Темы.md",
+    "Javascript/Функциональное программирование/Дополнительные темы/This в функциях.md",
+    "Javascript/Функциональное программирование/Дополнительные темы/Declaration vs Expression.md",
+    "Javascript/Функциональное программирование/Дополнительные темы/Каррирование и Чейнинг.md",
+    "Javascript/Функциональное программирование/Дополнительные темы/Замыкание.md",
+    "Javascript/Функциональное программирование/Основные темы/Чистые функции.md",
+    "Javascript/Функциональное программирование/Основные темы/Функции высшего порядка.md",
+    "Javascript/Функциональное программирование/Основные темы/Иммутабельность.md",
+    "Javascript/Функциональное программирование/Дополнительные темы/Side эффекты.md",
+    "Javascript/Функциональное программирование/Дополнительные темы/Обычные функции vs. Стрелочные функции.md",
+    "Javascript/Функциональное программирование/Основные темы/Функции первого класса.md",
+    "Javascript/Типы данных.md",
+    "Javascript/Функциональное программированиеэ/Основные темы/Декларативность.md",
+    "Javascript/Функциональное программирование/Основные темы",
+    "Javascript/Функциональное программированиеэ/Дополнительные темы/Композиция и Конвейер.md",
+    "Javascript/Функциональное программированиеэ/Дополнительные темы/Функции-генераторы.md",
+    "Javascript - собеседование.md",
+    "Javascript/Движок Javascript/Темы.md",
+    "Javascript/Движок Javascript",
+    "Javascript/Функциональное программирование/Дополнительные темы",
+    "Javascript/Функциональное программирование",
+    "Без названия",
+    "Javascript",
+    "Pasted image 20241121230339.png",
+    "Без названия.canvas",
+    "Pasted image 20241121230126.png",
+    "похудение"
+  ]
+}
