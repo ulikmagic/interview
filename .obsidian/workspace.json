@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1edc94ed6a112edc",
+        "id": "716164259480ef40",
         "type": "tabs",
         "children": [
           {
-            "id": "0eb5b39d6e680e36",
+            "id": "02407f50c1f3c399",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Черновик.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Черновик"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -113,12 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "шаг 1.md",
+                "file": "Черновик.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из шаг 1"
+              "title": "Исходящие ссылки из Черновик"
             }
           },
           {
@@ -128,7 +124,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Теги"
@@ -140,17 +138,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "шаг 1.md"
+                "file": "Черновик.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура шаг 1"
+              "title": "Структура Черновик"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,28 +164,28 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "0eb5b39d6e680e36",
+  "active": "a2eeb86c8d4ea095",
   "lastOpenFiles": [
-    "Javascript/Темы.md",
-    "Черновик.md",
-    "Javascript/Прототипы.md",
-    "HTML - собеседование.md",
-    "CSS - собеседование.md",
-    "Javascript/Поднятие (Hosting).md",
     "Javascript/Переменные.md",
-    "Javascript/Декларативный и императивный подход.md",
-    "Javascript/Функциональное программирование/Темы.md",
-    "Javascript/Функциональное программирование/Дополнительные темы/This в функциях.md",
+    "Javascript/Типы данных.md",
     "Javascript/Функциональное программирование/Дополнительные темы/Declaration vs Expression.md",
-    "Javascript/Функциональное программирование/Дополнительные темы/Каррирование и Чейнинг.md",
-    "Javascript/Функциональное программирование/Дополнительные темы/Замыкание.md",
-    "Javascript/Функциональное программирование/Основные темы/Чистые функции.md",
+    "Javascript/Функциональное программирование/Дополнительные темы/Обычные функции vs. Стрелочные функции.md",
+    "HTML - собеседование.md",
+    "Javascript/Темы.md",
+    "Javascript/Функциональное программирование/Дополнительные темы/This в функциях.md",
+    "Javascript/Декларативный и императивный подход.md",
+    "Javascript/Поднятие (Hosting).md",
+    "Javascript/Прототипы.md",
+    "Черновик.md",
+    "Javascript/Функциональное программирование/Темы.md",
     "Javascript/Функциональное программирование/Основные темы/Функции высшего порядка.md",
+    "Javascript/Функциональное программирование/Основные темы/Функции первого класса.md",
+    "Javascript/Функциональное программирование/Основные темы/Чистые функции.md",
     "Javascript/Функциональное программирование/Основные темы/Иммутабельность.md",
     "Javascript/Функциональное программирование/Дополнительные темы/Side эффекты.md",
-    "Javascript/Функциональное программирование/Дополнительные темы/Обычные функции vs. Стрелочные функции.md",
-    "Javascript/Функциональное программирование/Основные темы/Функции первого класса.md",
-    "Javascript/Типы данных.md",
+    "CSS - собеседование.md",
+    "Javascript/Функциональное программирование/Дополнительные темы/Замыкание.md",
+    "Javascript/Функциональное программирование/Дополнительные темы/Каррирование и Чейнинг.md",
     "Javascript/Функциональное программированиеэ/Основные темы/Декларативность.md",
     "Javascript/Функциональное программирование/Основные темы",
     "Javascript/Функциональное программированиеэ/Дополнительные темы/Композиция и Конвейер.md",
